@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FBB03B;}
+	.st1{font-family:'MyriadPro-Regular';}
+	.st2{font-size:11.815px;}
+	.st3{fill:none;stroke:#B3B3B3;stroke-miterlimit:10;}
+	.st4{fill:#B3B3B3;}
+	.st5{font-size:11.8149px;}
+</style>
+<text transform="matrix(0.8255 0 0 1 125.9814 363.1577)" class="st0 st1 st2">log in</text>
+<text transform="matrix(0.8255 0 0 1 125.9814 435.4922)" class="st0 st1 st2">sign up</text>
+<text transform="matrix(0.8255 0 0 1 196.3057 348.9795)"><tspan x="0" y="0" class="st0 st1 st2">email </tspan><tspan x="0" y="14.2" class="st0 st1 st2">password</tspan><tspan x="0" y="28.4" class="st0 st1 st2">log in</tspan></text>
+<text transform="matrix(0.8255 0 0 1 58.7368 329.9995)" class="st0 st1 st2">enter website</text>
+<path class="st3" d="M90,334.7c0.3,33,0.3,65.3,0,98.5"/>
+<line class="st3" x1="90.3" y1="432.7" x2="122.1" y2="432.7"/>
+<line class="st3" x1="90.3" y1="359.7" x2="122.1" y2="359.7"/>
+<line class="st3" x1="158" y1="359.7" x2="189.9" y2="359.7"/>
+<polygon class="st4" points="189.9,358.2 189.9,361.9 193,359.7 189.9,357.5 "/>
+<polygon class="st4" points="121.6,358.2 121.6,361.9 124.7,359.7 121.6,357.5 "/>
+<polygon class="st4" points="122.1,431.6 122.1,435.2 125.2,433.1 122.1,430.9 "/>
+<line class="st3" x1="166.3" y1="433.1" x2="198.1" y2="433.1"/>
+<polygon class="st4" points="196.5,431 196.5,434.6 199.6,432.4 196.5,430.3 "/>
+<text transform="matrix(0.8255 0 0 1 206.1216 435.4932)"><tspan x="0" y="0" class="st0 st1 st2">email </tspan><tspan x="0" y="14.2" class="st0 st1 st2">create new password</tspan><tspan x="0" y="28.4" class="st0 st1 st2">create new account</tspan></text>
+<line class="st3" x1="244.5" y1="359.7" x2="276.3" y2="359.7"/>
+<polygon class="st4" points="276.3,358.2 276.3,361.9 279.4,359.7 276.3,357.5 "/>
+<text transform="matrix(0.8255 0 0 1 283.709 363.1577)" class="st0 st1 st2">home</text>
+<line class="st3" x1="297.6" y1="430.1" x2="297.5" y2="372.3"/>
+<polygon class="st4" points="296.3,372.3 299.3,372.3 297.5,366.4 295.7,372.3 "/>
+<text transform="matrix(0.8255 0 0 1 370.6768 363.1572)" class="st0 st1 st2">add new trip</text>
+<text transform="matrix(0.8255 0 0 1 360.3296 307.4668)"><tspan x="0" y="0" class="st0 st1 st2">select previously</tspan><tspan x="0" y="14.2" class="st0 st1 st2">added trip</tspan></text>
+<line class="st3" x1="325.3" y1="359.7" x2="357.1" y2="359.7"/>
+<polygon class="st4" points="357.1,358.2 357.1,361.9 360.2,359.7 357.1,357.5 "/>
+<path class="st3" d="M297.6,307.5c0.3,15.4,0.3,30.5,0,46"/>
+<line class="st3" x1="297.3" y1="307.2" x2="349.5" y2="307.6"/>
+<polygon class="st4" points="349.7,306.2 349.7,309.8 352.8,307.6 349.7,305.4 "/>
+<line class="st3" x1="452.8" y1="359.7" x2="484.6" y2="359.7"/>
+<polygon class="st4" points="484.6,358.2 484.6,361.9 487.7,359.7 484.6,357.5 "/>
+<line class="st3" x1="455.9" y1="304.4" x2="670.3" y2="304.4"/>
+<text transform="matrix(0.8255 0 0 1 506.6548 362.082)"><tspan x="0" y="0" class="st0 st1 st2">add trip name</tspan><tspan x="0" y="14.2" class="st0 st1 st2">invite friends</tspan></text>
+<text transform="matrix(0.8255 0 0 1 636.3555 362.3877)" class="st0 st1 st2">start b-storming</text>
+<line class="st3" x1="587.6" y1="359.8" x2="619.4" y2="359.8"/>
+<polygon class="st4" points="619.4,358.4 619.4,362 622.5,359.8 619.4,357.6 "/>
+<line class="st3" x1="670.3" y1="304.1" x2="670.3" y2="346"/>
+<polygon class="st4" points="671.6,345.8 668.4,345.8 670.3,349.3 672.2,345.8 "/>
+<line class="st3" x1="670.3" y1="371" x2="670.3" y2="435.2"/>
+<polygon class="st4" points="671.6,435 668.4,435 670.3,438.5 672.2,435 "/>
+<text transform="matrix(0.8255 0 0 1 624.8921 454.6953)"><tspan x="0" y="0" class="st0 st1 st2">add name of idea, </tspan><tspan x="0" y="14.2" class="st0 st1 st2">add category</tspan><tspan x="0" y="28.4" class="st0 st1 st2">(repeat to add ideas)</tspan></text>
+<line class="st3" x1="667.6" y1="492.5" x2="667.6" y2="530.2"/>
+<polygon class="st4" points="668.9,530.4 665.7,530.4 667.6,533.9 669.5,530.4 "/>
+<text transform="matrix(0.8255 -5.299205e-03 4.658024e-03 1 659.9518 632.5497)"><tspan x="0" y="0" class="st0 st1 st5">finish</tspan><tspan x="0" y="14.2" class="st0 st1 st5"> </tspan></text>
+<line class="st3" x1="727.2" y1="359.8" x2="759" y2="359.8"/>
+<polygon class="st4" points="759,358.4 759,362 762.1,359.8 759,357.6 "/>
+<text transform="matrix(0.8255 0 0 1 773.0078 362.8511)" class="st0 st1 st2">add more friends</text>
+<path class="st3" d="M813.2,371c-0.3,28.6-0.3,57.2,0,86.2"/>
+<line class="st3" x1="812.9" y1="456.7" x2="734.8" y2="456.7"/>
+<polygon class="st4" points="735,455.2 732.4,457.2 735.8,458.9 735.6,454.8 "/>
+<line class="st3" x1="669.7" y1="641.2" x2="669.7" y2="678.9"/>
+<polygon class="st4" points="670.9,679 667.8,679 669.7,682.6 671.6,679 "/>
+<text transform="matrix(0.8255 -5.299205e-03 4.658024e-03 1 659.9525 699.6896)"><tspan x="0" y="0" class="st0 st1 st5">print</tspan><tspan x="0" y="14.2" class="st0 st1 st5">save as pdf</tspan><tspan x="0" y="28.4" class="st0 st1 st5">e-mail</tspan></text>
+<text transform="matrix(0.8255 -5.299205e-03 4.658024e-03 1 658.591 553.4222)" class="st0 st1 st5">vote</text>
+<line class="st3" x1="667.6" y1="564.5" x2="667.6" y2="602.1"/>
+<polygon class="st4" points="668.9,602.3 665.7,602.3 667.6,605.8 669.5,602.3 "/>
+</svg>
